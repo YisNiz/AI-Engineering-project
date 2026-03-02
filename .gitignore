@@ -3,7 +3,7 @@ venv/
 ENV/
 Lib/
 Scripts/
-.gradio/
+.gradio
 
 __pycache__/
 *.pyc
